@@ -1,0 +1,17 @@
+﻿  Screen.cpp
+c:\users\tariq\comp315\finalyearproject\game\game\screen.cpp(38): warning C4244: 'argument': conversion from 'const float' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\tariq\comp315\finalyearproject\game\game\screen.cpp(103): warning C4244: 'argument': conversion from 'const float' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Generating code
+  1 of 714 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Game.vcxproj -> C:\Users\Tariq\Comp315\FinalYearProject\Game\Release\Game.exe
